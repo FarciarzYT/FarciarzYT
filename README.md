@@ -1,2 +1,2 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FarciarzYT.FarciarzYT"
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FarciarzYT.FarciarzYT" />
 
