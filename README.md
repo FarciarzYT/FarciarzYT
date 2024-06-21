@@ -14,11 +14,9 @@
     <img src="https://skillicons.dev/icons?i=react" width="25px" height="20px"/><span>React: Building scalable and maintainable user interfaces</span><br/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="20" /> <span>Tailwind CSS: Designing stylish and responsive layouts with ease.</span>
     
-    <br/>
-    <br/>
-   <div align="center">
-       🚀 Always eager to learn new technologies and improve my skills. Let's build something amazing together!
-   </div>
+    <div align="center">
+        🚀 Always eager to learn new technologies and improve my skills. Let's build something amazing together!
+    </div>
 </div>
 
 <div align="center">
