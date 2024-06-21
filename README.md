@@ -21,11 +21,6 @@
 </div>
 <br/>
 <div align="center">
-    <a href="mailto:tomek.tlustyxd@gmail.com" >
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/?
-    </a>
-</div>
-<div align="center">
 <h1 align="center">Discord</h1>
 <img src="https://discord.c99.nl/widget/theme-4/717674508030312458.png"/>
 </div>
