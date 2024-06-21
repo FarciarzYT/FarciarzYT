@@ -17,6 +17,7 @@
     <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>PostgreSQL: Managing and querying relational databases effectively.</span><br/>
     <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> <span>Kali Linux: Exploring cybersecurity and ethical hacking.</span><br/>
     <img src="https://skillicons.dev/icons?i=django" width="25" height="20"/> <span>Django: Developing secure and scalable web applications using Python.</span>
+    <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> <span></span>
     <br/>
     <br/>
 <div align="center">
