@@ -9,5 +9,5 @@
 </h3>
 <br/>
 <div>
-    <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="25px" height="25px"/> <p>HTML5 & CSS3: Crafting semantic, accessible, and visually appealing web pages.</p>
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="25px" height="20px"/> HTML5 & CSS3: Crafting semantic, accessible, and visually appealing web pages.
 </div>
