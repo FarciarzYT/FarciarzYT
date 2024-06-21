@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=react" width="25px" height="20px"/><span>React: Building scalable and maintainable user interfaces</span><br/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="20" /> <span>Tailwind CSS: Designing stylish and responsive layouts with ease.</span><br/>
     <img src="https://skillicons.dev/icons?i=java" width="25" height="20" /> <span>Java: Writing efficient, portable, and high-performance applications.</span><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>SQL: Managing and querying relational databases effectively.</span><br/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>PostgreSQL: Managing and querying relational databases effectively.</span><br/>
     <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> <span>Kali Linux: Exploring cybersecurity and ethical hacking.</span>
     <br/>
     <br/>
