@@ -16,8 +16,8 @@
     <img src="https://skillicons.dev/icons?i=java" width="25" height="20" /> <span>Java: Writing efficient, portable, and high-performance applications.</span><br/>
     <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>PostgreSQL: Managing and querying relational databases effectively.</span><br/>
     <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> <span>Kali Linux: Exploring cybersecurity and ethical hacking.</span><br/>
-    <img src="https://skillicons.dev/icons?i=django" width="25" height="20"/> <span>Django: Developing secure and scalable web applications using Python.</span>
-    <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> <span></span>
+    <img src="https://skillicons.dev/icons?i=django" width="25" height="20"/> <span>Django: Developing secure and scalable web applications using Python.</span><br/>
+    <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> <span>Discord Bots: Building Easy Bots using Python</span>
     <br/>
     <br/>
 <div align="center">
