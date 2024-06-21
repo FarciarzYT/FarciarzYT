@@ -18,6 +18,8 @@
 <div align="center">
     🚀 Always eager to learn new technologies and improve my skills. Let's build something amazing together!
 </div>
+    <br/>
+    <br/>
 </div>
 
 <div align="center">
