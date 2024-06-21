@@ -22,5 +22,7 @@
 
 <div align="center">
 <h1 align="center">Discord</h1>
-<img src="https://discord.c99.nl/widget/theme-4/717674508030312458.png](https://discord.com/users/717674508030312458"/>
+    <a href="https://discord.com/users/717674508030312458">
+<img src="https://discord.c99.nl/widget/theme-4/717674508030312458.png](https://discord.com/users/717674508030312458](https://discord.c99.nl/widget/theme-4/717674508030312458.png"/>
+    </a>
 </div>
