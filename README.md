@@ -15,6 +15,7 @@
     <br/><img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="25" height="20" /> <span>Tailwind CSS: Designing stylish and responsive layouts with ease.</span>
     <br/>
     <br/>
-    <h1>Linux/MacOS/Windows User</h1>
-    <p>I use arch btw</p>
+   <div align="center">
+       🚀 Always eager to learn new technologies and improve my skills. Let's build something amazing together!
+   </div>
 </div>
