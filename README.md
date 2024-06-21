@@ -19,7 +19,7 @@
        🚀 Always eager to learn new technologies and improve my skills. Let's build something amazing together!
    </div>
 </div>
-<br/>
+
 <div align="center">
 <h1 align="center">Discord</h1>
 <img src="https://discord.c99.nl/widget/theme-4/717674508030312458.png"/>
