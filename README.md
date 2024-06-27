@@ -34,7 +34,7 @@
 <img src="https://discord.c99.nl/widget/theme-4/717674508030312458.png"/>
     </a>
     <div align="center">
-  <a href="https://open.spotify.com/user/FarciarzYT">
+  <a href="https://open.spotify.com/user/Farciarz YT">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=FarciarzYT&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
