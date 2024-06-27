@@ -33,11 +33,7 @@
     <a href="https://discord.com/users/717674508030312458">
 <img src="https://discord.c99.nl/widget/theme-4/717674508030312458.png"/>
     </a>
-    <div align="center">
-  <a href="https://open.spotify.com/user/Farciarz YT">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Farciarz YT&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+  
 </div>
 <div align="center"> 
     <h1>Others</h1>
