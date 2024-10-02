@@ -7,6 +7,7 @@
 <h3 align="center">
 👋 Hi there! I'm a passionate web developer specializing in front-end technologies. My toolkit includes HTML5, CSS3, JavaScript, TypeScript, React, and Tailwind CSS. I love building clean, responsive, and user-friendly interfaces.
 </h3>
+<h6><i>I use Arch btw</i></h6>
 <br/>
 <div>
     <h2>Technologies I Love using ❤️</h2>
