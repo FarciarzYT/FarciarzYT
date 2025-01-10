@@ -24,6 +24,10 @@
     <br/>
 <div align="center">
     🚀 Always eager to learn new technologies and improve my skills. Let's build something amazing together!
+    <br/><br/>
+
+ <a href="https://referral.hackthebox.com/mz7N3tQ" target="_blank" align="center">Join Here To Support my CyberSecurity Learning</a>
+
 </div>
     <br/>
     <br/>
@@ -45,11 +49,8 @@
  
 </div>
 <div align="center">
-    <a href="https://app.daily.dev/farciarzyt"><img src="https://api.daily.dev/devcards/v2/R4frK0Q9p4YCNPjtKQQI7.png?type=default&r=352" width="356" alt="FarciarzYT's Dev Card"/></a>
+    <a href="https://app.daily.dev/farciarzyt"><img src="https://api.daily.dev/devcards/v2/R4frK0Q9p4YCNPjtKQQI7.png?type=wide&r=352" width="652" alt="FarciarzYT's Dev Card"/></a>
 </div>
-<br/><br/><br/>
-<div>
- <a href="https://referral.hackthebox.com/mz7N3tQ" target="_blank" align="center">Join Here To Support my CyberSecurity Learning</a>
-</div>
+
 
 
