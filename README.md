@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-👋 Hi there! I'm a passionate web developer specializing in front-end technologies. My toolkit includes HTML5, CSS3, JavaScript, TypeScript, React, and Tailwind CSS. I love building clean, responsive, and user-friendly interfaces.
+👋 Hi there! I'm a passionate web developer specializing in front-end technologies. My toolkit includes JavaScript, TypeScript, React, Nextjs and Tailwind CSS. I love building clean, responsive, and user-friendly interfaces.
 </h3>
 <h6><i>I use Arch btw</i></h6>
 <br/>
@@ -13,13 +13,14 @@
     <h2>Technologies I Love using ❤️</h2>
     <img src="https://skillicons.dev/icons?i=html" width="25px" height="20px"/> <span style="color:red;">HTML5 & CSS3: Crafting semantic, accessible, and visually appealing web pages.</span><br/>
     <img src="https://skillicons.dev/icons?i=js" width="25px" height="20px"/> <span style="color:red;"> JavaScript & TypeScript: Developing dynamic and robust web applications</span><br/>
-    <img src="https://skillicons.dev/icons?i=react" width="25px" height="20px"/><span>React: Building scalable and maintainable user interfaces</span><br/>
-    <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="20" /> <span>Tailwind CSS: Designing stylish and responsive layouts with ease.</span><br/>
-    <img src="https://skillicons.dev/icons?i=java" width="25" height="20" /> <span>Java: Writing efficient, portable, and high-performance applications.</span><br/>
-    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>PostgreSQL: Managing and querying relational databases effectively.</span><br/>
-    <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> <span>Kali Linux: Exploring cybersecurity and ethical hacking.</span><br/>
-    <img src="https://skillicons.dev/icons?i=python" width="25" height="20"/> <span>Pyhton: Basic Scripts Using Python</span><br/>
-    <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> <span>Discord Bots: Building Easy Bots using Python</span>
+    <img src="https://skillicons.dev/icons?i=react" width="25px" height="20px"/><span>React</span><br/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="25px" height="20px"/><span>Nextjs</span><br/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="20" /> <span>Tailwind CSS</span><br/>
+    <img src="https://skillicons.dev/icons?i=java" width="25" height="20" /> <span>Java</span><br/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>PostgreSQL</span><br/>
+    <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> <span>CyberSecurity</span><br/>
+    <img src="https://skillicons.dev/icons?i=python" width="25" height="20"/> <span>Pyhton</span><br/>
+    <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> <span>Discord Bots</span>
     <br/>
     <br/>
 <div align="center">
