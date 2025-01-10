@@ -11,15 +11,15 @@
 <br/>
 <div>
     <h2>Technologies I Love using ❤️</h2>
-    <img src="https://skillicons.dev/icons?i=html" width="25px" height="20px"/> <span style="color:red;">HTML5 & CSS3</span><br/>
-    <img src="https://skillicons.dev/icons?i=js" width="25px" height="20px"/> <span style="color:red;"> JavaScript & TypeScript</span><br/>
+    <img src="https://skillicons.dev/icons?i=html" width="25px" height="20px"/> <span>HTML5 & CSS3</span><br/>
+    <img src="https://skillicons.dev/icons?i=js" width="25px" height="20px"/> <span> JavaScript & TypeScript</span><br/>
     <img src="https://skillicons.dev/icons?i=react" width="25px" height="20px"/><span>React</span><br/>
     <img src="https://skillicons.dev/icons?i=nextjs" width="25px" height="20px"/><span>Nextjs</span><br/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="20" /> <span>Tailwind CSS</span><br/>
     <img src="https://skillicons.dev/icons?i=java" width="25" height="20" /> <span>Java</span><br/>
     <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> <span>PostgreSQL</span><br/>
     <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> <span>CyberSecurity</span><br/>
-    <img src="https://skillicons.dev/icons?i=python" width="25" height="20"/> <span>Pyhton</span><br/>
+    <img src="https://skillicons.dev/icons?i=python" width="25" height="20"/> <span>Python</span><br/>
     <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> <span>Discord Bots</span>
     <br/>
     <br/>
