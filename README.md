@@ -44,9 +44,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarciarzYT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"   />
  
 </div>
+<div align="center">
+    <a href="https://app.daily.dev/farciarzyt"><img src="https://api.daily.dev/devcards/v2/R4frK0Q9p4YCNPjtKQQI7.png?type=default&r=352" width="356" alt="FarciarzYT's Dev Card"/></a>
+</div>
 <br/><br/><br/>
 <div>
- <a href="https://referral.hackthebox.com/mz7N3tQ" target="_blank">Join Here To Support my CyberSecurity Learning</a>
+ <a href="https://referral.hackthebox.com/mz7N3tQ" target="_blank" align="center">Join Here To Support my CyberSecurity Learning</a>
 </div>
 
 
