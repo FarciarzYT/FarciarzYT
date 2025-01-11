@@ -11,16 +11,16 @@
 <br/>
 <div>
     <h2>Technologies I Love using ❤️</h2>
-    <img src="https://skillicons.dev/icons?i=html" width="25px" height="20px"/>
-    <img src="https://skillicons.dev/icons?i=js" width="25px" height="20px"/>
-    <img src="https://skillicons.dev/icons?i=react" width="25px" height="20px"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" width="25px" height="20px"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="20" /> 
-    <img src="https://skillicons.dev/icons?i=java" width="25" height="20" /> 
-    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="20" /> 
-    <img src="https://skillicons.dev/icons?i=kali" width="25" height="20" /> 
-    <img src="https://skillicons.dev/icons?i=python" width="25" height="20"/> 
-    <img src="https://skillicons.dev/icons?i=bots" width="25" height=20/> 
+    <img src="https://skillicons.dev/icons?i=html" width="50px" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=js" width="50px" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=react" width="50px" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50px" height="40px"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50px" height="40px" /> 
+    <img src="https://skillicons.dev/icons?i=java" width="50px" height="40px" /> 
+    <img src="https://skillicons.dev/icons?i=postgres" width="50px" height="40px" /> 
+    <img src="https://skillicons.dev/icons?i=kali" width="50px" height="40px" /> 
+    <img src="https://skillicons.dev/icons?i=python" width="50px" height="40px"/> 
+    <img src="https://skillicons.dev/icons?i=bots" width="50px" height=40px/> 
     <br/>
     <br/>
 <div align="center">
@@ -45,8 +45,8 @@
     <h1>Others</h1>
 
     
-<img src="https://github-readme-stats.vercel.app/api?username=FarciarzYT&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=some%20stats" height="150"  alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarciarzYT&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"   />
+<img src="https://github-readme-stats.vercel.app/api?username=FarciarzYT&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=some%40pxstats" height="150"  alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarciarzYT&locale=en&hide_title=true&layout=compact&card_width=340px&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"   />
  
 </div>
 <div align="center">
