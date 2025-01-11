@@ -10,7 +10,7 @@
 <h6><i>I use Arch btw</i></h6>
 <br/>
 <div>
-    <h2>Technologies I Love using ❤️</h2>
+    <h2 align="center">Technologies I Love using ❤️</h2>
     <div align="center">
     <img src="https://skillicons.dev/icons?i=html" width="50px" height="40px"/>
     <img src="https://skillicons.dev/icons?i=js" width="50px" height="40px"/>
